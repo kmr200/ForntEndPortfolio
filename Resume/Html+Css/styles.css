@@ -31,3 +31,6 @@ p {
 hr {
     color: #131f31;
 }
+li {
+    list-style: none;
+}
