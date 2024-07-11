@@ -3,8 +3,6 @@
     box-shadow: 0px 4px 7px rgba(0, 0, 0, 0.3);
 }
 
-h2.skills {
+.accordion-item:has(.accordion-collapse.show) .accordion-button {
     border-radius: 10px;
-    background-color: #E9E9EA;
-    margin-bottom: 20px;
 }
